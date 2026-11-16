@@ -1,14 +1,14 @@
 body {
-    background-color: #b85592; /* Pinkish purple */
+    background-color: #4a64b4; /* blueish gray */
     font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
-    color: #6742b4; /*Warna teks utama (Blueish purple) */
+    color: #f5bcd0; /*Warna teks utama (yellowish creame) */
 }
 
 .kartu-profil {
     width: 300px;
     margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px;
-    background-color: white;
+    background-color: #9ba8d0; /* gray */
     border-radius: 15px; /* Membuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
     text-align: center; /* menengahkan semua teks di dalam kartu */
